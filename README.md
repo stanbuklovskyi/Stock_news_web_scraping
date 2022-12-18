@@ -18,8 +18,7 @@ This piece of code is good-to-go for [finviz](https://finviz.com/) stock news sc
 
 ## How to use
 
- - Put the file in you working directory with multiple data files
- - Example data files are included
+ - Save the file to your computer and run via Google Colab or Jupyter Notebook
  
  
 ## License
