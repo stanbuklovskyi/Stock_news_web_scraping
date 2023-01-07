@@ -26,6 +26,12 @@ This piece of code is good-to-go for [finviz](https://finviz.com/) stock news sc
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Support
+
+####For support and questions contact me via
+Email -> stas.buklovskiy@gmail.com
+Linkedin -> (Click)[https://www.linkedin.com/in/buklovskyi/]
+
 ## Contributing
 
 Contributions are always welcome! Just hit me via the email or LinkedIn mentined above. 
